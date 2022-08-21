@@ -11,6 +11,9 @@ im-config
 
 추가적으로 팝업창이 나옵니다 첫번째 화면에서  OK=>NO=>OK
 순으로 진행해 주시면 됩니다
+
+.xinputrc 파일 위치는 /home/linaro 
+
 ```
 ls -a
 sudo vi .xinputrc
