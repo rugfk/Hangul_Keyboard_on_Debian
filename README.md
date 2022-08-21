@@ -13,7 +13,7 @@ im-config
 순으로 진행해 주시면 됩니다
 ```
 ls -a
-sudo nano .xinputrc
+sudo vi .xinputrc
 ```
 ```
 export XIM=nabi
