@@ -3,7 +3,7 @@
 ***
 
 ```
-sudo apt install nabi im-config xenity -y
+sudo apt install nabi im-config zenity -y
 sudo apt update
 im-config -n hangul
 im-config
