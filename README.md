@@ -2,6 +2,13 @@
 
 ***
 
+* 제품기종: ASUS Tinker Edge R
+```
+ID linaro
+PW linaro
+```
+
+* 설치하기
 ```
 sudo apt install nabi im-config zenity -y
 sudo apt update
